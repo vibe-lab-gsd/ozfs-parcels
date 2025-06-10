@@ -1,0 +1,12 @@
+name: pect_env
+dependencies:
+- python=3.11.5
+- numpy
+- pandas
+- matplotlib
+- searborn
+- geopandas
+- shapely
+- scipy
+- rtree
+- fuzzywuzzy
