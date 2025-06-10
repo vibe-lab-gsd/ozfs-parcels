@@ -196,3 +196,6 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 .Rproj.user
+
+# larger files
+ellis_co_shp/stratmap24-landparcels_48139_ellis_202404.*
