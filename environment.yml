@@ -4,7 +4,7 @@ dependencies:
 - numpy
 - pandas
 - matplotlib
-- searborn
+- seaborn
 - geopandas
 - shapely
 - scipy
